@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/subru/Downloads/CAMPROJECT/CAMPROJECT.kicad_sch</source>
+    <date>Sunday 23 April 2023 02:04:15 PM</date>
+    <tool>Eeschema 7.0.2-6a45011f42~172~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CAMPROJECT.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ca8778e-499a-4cc4-a88a-e31c70528a4e</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d268165-0618-40a3-aa06-d5d09c4bf760</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae129cff-5fe8-418c-9aa5-52aa8f12e8e5</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcdc6339-8f83-4813-9eeb-3de5a8e4fe4b</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Barrel_Jack</value>
+      <footprint>Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal</footprint>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6930c47d-5f77-4521-99c9-c8f836d89f4f</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064420452</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R_Small_US</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>830b92dc-63da-4edd-bdc6-3479c4859d39</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R_Small_US</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>820fa93d-da9a-4fe3-8dfe-281607566774</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R_Small_US</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>480a9fb8-cdc3-4ee7-8b20-0c45d0e4def2</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R_Small_US</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2396d0d6-5870-4e76-a54d-89f7c33f5850</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP-12E</value>
+      <footprint>RF_Module:ESP-12E</footprint>
+      <datasheet>http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</datasheet>
+      <libsource lib="RF_Module" part="ESP-12E" description="802.11 b/g/n Wi-Fi Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <property name="ki_description" value="802.11 b/g/n Wi-Fi Module"/>
+      <property name="ki_keywords" value="802.11 Wi-Fi"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000642feaa7</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TXB0102DCUR</value>
+      <footprint>CAMPROJECT:SOP50P310X90-8N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.9 mm</field>
+        <field name="PARTREV">D</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="CAMPROJECT-rescue" part="TXB0102DCUR-TXB0102DCUR" description=""/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.9 mm"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="PARTREV" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000643eeafc</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LD1117AV33</value>
+      <footprint>CAMPROJECT:TO255P1020X450X1968-3</footprint>
+      <fields>
+        <field name="MANUFACTURER">ST Microelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">19.68mm</field>
+        <field name="PARTREV">26</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="LD1117AV33" part="LD1117AV33" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="19.68mm"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="26"/>
+      <property name="MANUFACTURER" value="ST Microelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e70b55-8062-4d6c-bea7-0109a2db0f3e</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>AT89S52-24PC</value>
+      <footprint>CAMPROJECT:DIP254P1524X482-40</footprint>
+      <fields>
+        <field name="DESCRIPTION">8-bit Microcontroller</field>
+        <field name="MPN">AT89S52-24PC</field>
+        <field name="OC_FARNELL">1095743</field>
+        <field name="OC_NEWARK">96K6580</field>
+        <field name="PACKAGE">DIP-40</field>
+        <field name="SUPPLIER">Atmel</field>
+      </fields>
+      <libsource lib="CAMPROJECT-rescue" part="AT89S52-24PC-AT89S52-24PC" description=""/>
+      <property name="PACKAGE" value="DIP-40"/>
+      <property name="DESCRIPTION" value="8-bit Microcontroller"/>
+      <property name="OC_NEWARK" value="96K6580"/>
+      <property name="MPN" value="AT89S52-24PC"/>
+      <property name="OC_FARNELL" value="1095743"/>
+      <property name="SUPPLIER" value="Atmel"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000643d62c4</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>L7805CV</value>
+      <footprint>CAMPROJECT:TO255P1040X460X1968-3</footprint>
+      <fields>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="PARTREV">36</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="L7805CV" part="L7805CV" description=""/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="PARTREV" value="36"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CAMPROJECT.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c66e4a72-8251-4677-9678-73ac0a996755</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="CAMPROJECT-rescue" part="AT89S52-24PC-AT89S52-24PC">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AT89S52-24PC_AT89S52-24PC</field>
+        <field name="Footprint">DIP254P1524X482-40</field>
+        <field name="PACKAGE">DIP-40</field>
+        <field name="DESCRIPTION">8-bit Microcontroller</field>
+        <field name="OC_NEWARK">96K6580</field>
+        <field name="MPN">AT89S52-24PC</field>
+        <field name="OC_FARNELL">1095743</field>
+        <field name="SUPPLIER">Atmel</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(T2)_P1.0" type="bidirectional"/>
+        <pin num="2" name="(T2_EX)_P1.1" type="bidirectional"/>
+        <pin num="3" name="P1.2" type="bidirectional"/>
+        <pin num="4" name="P1.3" type="bidirectional"/>
+        <pin num="5" name="P1.4" type="bidirectional"/>
+        <pin num="6" name="(MOSI)_P1.5" type="bidirectional"/>
+        <pin num="7" name="(MISO)_P1.6" type="bidirectional"/>
+        <pin num="8" name="(SCK)_P1.7" type="bidirectional"/>
+        <pin num="9" name="RST" type="input"/>
+        <pin num="10" name="(RXD)_P3.0" type="bidirectional"/>
+        <pin num="11" name="(TXD)_P3.1" type="bidirectional"/>
+        <pin num="12" name="(INT0)_P3.2" type="bidirectional"/>
+        <pin num="13" name="(INT1)_P3.3" type="bidirectional"/>
+        <pin num="14" name="(T0)_P3.4" type="bidirectional"/>
+        <pin num="15" name="(T1)_P3.5" type="bidirectional"/>
+        <pin num="16" name="(WR)_P3.6" type="bidirectional"/>
+        <pin num="17" name="(RD)_P3.7" type="bidirectional"/>
+        <pin num="18" name="XTAL2" type="output"/>
+        <pin num="19" name="XTAL1" type="input"/>
+        <pin num="20" name="GND" type="passive"/>
+        <pin num="21" name="P2.0_(A8)" type="bidirectional"/>
+        <pin num="22" name="P2.1_(A9)" type="bidirectional"/>
+        <pin num="23" name="P2.2_(A10)" type="bidirectional"/>
+        <pin num="24" name="P2.3_(A11)" type="bidirectional"/>
+        <pin num="25" name="P2.4_(A12)" type="bidirectional"/>
+        <pin num="26" name="P2.5_(A13)" type="bidirectional"/>
+        <pin num="27" name="P2.6_(A14)" type="bidirectional"/>
+        <pin num="28" name="P2.7_(A15)" type="bidirectional"/>
+        <pin num="29" name="~{PSEN}" type="input"/>
+        <pin num="30" name="ALE/~{PROG}" type="output"/>
+        <pin num="31" name="~{EA/VPP}" type="input"/>
+        <pin num="32" name="P0.7_(AD7)" type="bidirectional"/>
+        <pin num="33" name="P0.6_(AD6)" type="bidirectional"/>
+        <pin num="34" name="P0.5_(AD5)" type="bidirectional"/>
+        <pin num="35" name="P0.4_(AD4)" type="bidirectional"/>
+        <pin num="36" name="P0.3_(AD3)" type="bidirectional"/>
+        <pin num="37" name="P0.2_(AD2)" type="bidirectional"/>
+        <pin num="38" name="P0.1_(AD1)" type="bidirectional"/>
+        <pin num="39" name="P0.0_(AD0)" type="bidirectional"/>
+        <pin num="40" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="CAMPROJECT-rescue" part="TXB0102DCUR-TXB0102DCUR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXB0102DCUR_TXB0102DCUR</field>
+        <field name="Footprint">SOP50P310X90-8N</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.9 mm</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="PARTREV">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B2" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VCCA" type="power_in"/>
+        <pin num="4" name="A2" type="bidirectional"/>
+        <pin num="5" name="A1" type="bidirectional"/>
+        <pin num="6" name="OE" type="input"/>
+        <pin num="7" name="VCCB" type="power_in"/>
+        <pin num="8" name="B1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="L7805CV" part="L7805CV">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805CV</field>
+        <field name="Footprint">TO255P1040X460X1968-3</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="PARTREV">36</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INPUT" type="input"/>
+        <pin num="2" name="GROUND" type="power_in"/>
+        <pin num="3" name="OUTPUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="LD1117AV33" part="LD1117AV33">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LD1117AV33</field>
+        <field name="Footprint">TO255P1020X450X1968-3</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">19.68mm</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">26</field>
+        <field name="MANUFACTURER">ST Microelectronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ/GND" type="passive"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="IN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP-12E">
+      <description>802.11 b/g/n Wi-Fi Module</description>
+      <docs>http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</docs>
+      <footprints>
+        <fp>ESP?12*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP-12E</field>
+        <field name="Footprint">RF_Module:ESP-12E</field>
+        <field name="Datasheet">http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RST}" type="input"/>
+        <pin num="2" name="ADC" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="GPIO16" type="bidirectional"/>
+        <pin num="5" name="GPIO14" type="bidirectional"/>
+        <pin num="6" name="GPIO12" type="bidirectional"/>
+        <pin num="7" name="GPIO13" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="CS0" type="input"/>
+        <pin num="10" name="MISO" type="bidirectional"/>
+        <pin num="11" name="GPIO9" type="bidirectional"/>
+        <pin num="12" name="GPIO10" type="bidirectional"/>
+        <pin num="13" name="MOSI" type="bidirectional"/>
+        <pin num="14" name="SCLK" type="bidirectional"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="GPIO15" type="bidirectional"/>
+        <pin num="17" name="GPIO2" type="bidirectional"/>
+        <pin num="18" name="GPIO0" type="bidirectional"/>
+        <pin num="19" name="GPIO4" type="bidirectional"/>
+        <pin num="20" name="GPIO5" type="bidirectional"/>
+        <pin num="21" name="GPIO3/RXD" type="bidirectional"/>
+        <pin num="22" name="GPIO1/TXD" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CAMPROJECT-rescue">
+      <uri>/home/subru/Downloads/CAMPROJECT/CAMPROJECT-rescue.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="L7805CV">
+      <uri>/home/subru/Downloads/CAMPROJECT/L7805CV.kicad_sym</uri>
+    </library>
+    <library logical="LD1117AV33">
+      <uri>/home/subru/Downloads/CAMPROJECT/LD1117AV33.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>/usr/share/kicad/symbols//RF_Module.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/VCC">
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="IN" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="INPUT" pintype="input"/>
+    </net>
+    <net code="2" name="/VCC3.3">
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="VCCA" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="3" name="/VCC5">
+      <node ref="U2" pin="7" pinfunction="VCCB" pintype="power_in"/>
+      <node ref="U4" pin="40" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="OUTPUT" pintype="output"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="ADJ/GND" pintype="passive"/>
+      <node ref="U4" pin="20" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="GROUND" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="21" pinfunction="P2.0_(A8)" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="22" pinfunction="P2.1_(A9)" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="23" pinfunction="P2.2_(A10)" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="24" pinfunction="P2.3_(A11)" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(U1-GPIO1{slash}TXD)">
+      <node ref="U1" pin="22" pinfunction="GPIO1/TXD" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Net-(U1-GPIO3{slash}RXD)">
+      <node ref="U1" pin="21" pinfunction="GPIO3/RXD" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="Net-(U2-B1)">
+      <node ref="U2" pin="8" pinfunction="B1" pintype="bidirectional"/>
+      <node ref="U4" pin="10" pinfunction="(RXD)_P3.0" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="Net-(U2-B2)">
+      <node ref="U2" pin="1" pinfunction="B2" pintype="bidirectional"/>
+      <node ref="U4" pin="11" pinfunction="(TXD)_P3.1" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(U2-OE)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="OE" pintype="input"/>
+    </net>
+    <net code="18" name="unconnected-(U1-ADC-Pad2)">
+      <node ref="U1" pin="2" pinfunction="ADC" pintype="input"/>
+    </net>
+    <net code="19" name="unconnected-(U1-CS0-Pad9)">
+      <node ref="U1" pin="9" pinfunction="CS0" pintype="input"/>
+    </net>
+    <net code="20" name="unconnected-(U1-EN-Pad3)">
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="21" name="unconnected-(U1-GPIO0-Pad18)">
+      <node ref="U1" pin="18" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="unconnected-(U1-GPIO2-Pad17)">
+      <node ref="U1" pin="17" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="unconnected-(U1-GPIO4-Pad19)">
+      <node ref="U1" pin="19" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="unconnected-(U1-GPIO5-Pad20)">
+      <node ref="U1" pin="20" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="unconnected-(U1-GPIO9-Pad11)">
+      <node ref="U1" pin="11" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="unconnected-(U1-GPIO10-Pad12)">
+      <node ref="U1" pin="12" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="unconnected-(U1-GPIO12-Pad6)">
+      <node ref="U1" pin="6" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="unconnected-(U1-GPIO13-Pad7)">
+      <node ref="U1" pin="7" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(U1-GPIO14-Pad5)">
+      <node ref="U1" pin="5" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="unconnected-(U1-GPIO15-Pad16)">
+      <node ref="U1" pin="16" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="unconnected-(U1-GPIO16-Pad4)">
+      <node ref="U1" pin="4" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="unconnected-(U1-MISO-Pad10)">
+      <node ref="U1" pin="10" pinfunction="MISO" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(U1-MOSI-Pad13)">
+      <node ref="U1" pin="13" pinfunction="MOSI" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U1-SCLK-Pad14)">
+      <node ref="U1" pin="14" pinfunction="SCLK" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U1-~{RST}-Pad1)">
+      <node ref="U1" pin="1" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="36" name="unconnected-(U4-(INT0)_P3.2-Pad12)">
+      <node ref="U4" pin="12" pinfunction="(INT0)_P3.2" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U4-(INT1)_P3.3-Pad13)">
+      <node ref="U4" pin="13" pinfunction="(INT1)_P3.3" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U4-(MISO)_P1.6-Pad7)">
+      <node ref="U4" pin="7" pinfunction="(MISO)_P1.6" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U4-(MOSI)_P1.5-Pad6)">
+      <node ref="U4" pin="6" pinfunction="(MOSI)_P1.5" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="unconnected-(U4-(RD)_P3.7-Pad17)">
+      <node ref="U4" pin="17" pinfunction="(RD)_P3.7" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(U4-(SCK)_P1.7-Pad8)">
+      <node ref="U4" pin="8" pinfunction="(SCK)_P1.7" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(U4-(T0)_P3.4-Pad14)">
+      <node ref="U4" pin="14" pinfunction="(T0)_P3.4" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(U4-(T1)_P3.5-Pad15)">
+      <node ref="U4" pin="15" pinfunction="(T1)_P3.5" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U4-(T2)_P1.0-Pad1)">
+      <node ref="U4" pin="1" pinfunction="(T2)_P1.0" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="unconnected-(U4-(T2_EX)_P1.1-Pad2)">
+      <node ref="U4" pin="2" pinfunction="(T2_EX)_P1.1" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U4-(WR)_P3.6-Pad16)">
+      <node ref="U4" pin="16" pinfunction="(WR)_P3.6" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(U4-ALE{slash}~{PROG}-Pad30)">
+      <node ref="U4" pin="30" pinfunction="ALE/~{PROG}" pintype="output"/>
+    </net>
+    <net code="48" name="unconnected-(U4-P0.0_(AD0)-Pad39)">
+      <node ref="U4" pin="39" pinfunction="P0.0_(AD0)" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U4-P0.1_(AD1)-Pad38)">
+      <node ref="U4" pin="38" pinfunction="P0.1_(AD1)" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U4-P0.2_(AD2)-Pad37)">
+      <node ref="U4" pin="37" pinfunction="P0.2_(AD2)" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U4-P0.3_(AD3)-Pad36)">
+      <node ref="U4" pin="36" pinfunction="P0.3_(AD3)" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U4-P0.4_(AD4)-Pad35)">
+      <node ref="U4" pin="35" pinfunction="P0.4_(AD4)" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U4-P0.5_(AD5)-Pad34)">
+      <node ref="U4" pin="34" pinfunction="P0.5_(AD5)" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U4-P0.6_(AD6)-Pad33)">
+      <node ref="U4" pin="33" pinfunction="P0.6_(AD6)" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="unconnected-(U4-P0.7_(AD7)-Pad32)">
+      <node ref="U4" pin="32" pinfunction="P0.7_(AD7)" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U4-P1.2-Pad3)">
+      <node ref="U4" pin="3" pinfunction="P1.2" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U4-P1.3-Pad4)">
+      <node ref="U4" pin="4" pinfunction="P1.3" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U4-P1.4-Pad5)">
+      <node ref="U4" pin="5" pinfunction="P1.4" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U4-P2.4_(A12)-Pad25)">
+      <node ref="U4" pin="25" pinfunction="P2.4_(A12)" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U4-P2.5_(A13)-Pad26)">
+      <node ref="U4" pin="26" pinfunction="P2.5_(A13)" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U4-P2.6_(A14)-Pad27)">
+      <node ref="U4" pin="27" pinfunction="P2.6_(A14)" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U4-P2.7_(A15)-Pad28)">
+      <node ref="U4" pin="28" pinfunction="P2.7_(A15)" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U4-RST-Pad9)">
+      <node ref="U4" pin="9" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="64" name="unconnected-(U4-XTAL1-Pad19)">
+      <node ref="U4" pin="19" pinfunction="XTAL1" pintype="input"/>
+    </net>
+    <net code="65" name="unconnected-(U4-XTAL2-Pad18)">
+      <node ref="U4" pin="18" pinfunction="XTAL2" pintype="output"/>
+    </net>
+    <net code="66" name="unconnected-(U4-~{EA{slash}VPP}-Pad31)">
+      <node ref="U4" pin="31" pinfunction="~{EA/VPP}" pintype="input"/>
+    </net>
+    <net code="67" name="unconnected-(U4-~{PSEN}-Pad29)">
+      <node ref="U4" pin="29" pinfunction="~{PSEN}" pintype="input"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,26 @@
+"Source:","/home/subru/Downloads/CAMPROJECT/CAMPROJECT.sch"
+"Date:","Tue Apr 18 00:12:22 2023"
+"Tool:","Eeschema 5.1.5+dfsg1-2build2"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DESCRIPTION","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MPN","OC_FARNELL","OC_NEWARK","PACKAGE","PARTREV","STANDARD","SUPPLIER"
+"","","J1","Conn_01x04","Connector_Generic:Conn_01x04","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical","~","","","","","","","","","",""
+"","","J2","Conn_01x04","Connector_Generic:Conn_01x04","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical","~","","","","","","","","","",""
+"","","R1","R","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","~","","","","","","","","","",""
+"","","U1","ESP-12E","RF_Module:ESP-12E","RF_Module:ESP-12E","http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf","","","","","","","","","",""
+"","","U2","TXB0102DCUR","TXB0102DCUR:TXB0102DCUR","CAMPROJECT:SOP50P310X90-8N","","","Texas Instruments","0.9 mm","","","","","D","IPC-7351B",""
+"","","U4","AT89S52-24PC","AT89S52-24PC:AT89S52-24PC","CAMPROJECT:DIP254P1524X482-40","","8-bit Microcontroller","","","AT89S52-24PC","1095743","96K6580","DIP-40","","","Atmel"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DESCRIPTION","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MPN","OC_FARNELL","OC_NEWARK","PACKAGE","PARTREV","STANDARD","SUPPLIER"
+"1","2","J1, J2","Conn_01x04","Connector_Generic:Conn_01x04","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical","~","","","","","","","","","",""
+"2","1","R1","R","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","~","","","","","","","","","",""
+"3","1","U1","ESP-12E","RF_Module:ESP-12E","RF_Module:ESP-12E","http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf","","","","","","","","","",""
+"4","1","U2","TXB0102DCUR","TXB0102DCUR:TXB0102DCUR","CAMPROJECT:SOP50P310X90-8N","","","Texas Instruments","0.9 mm","","","","","D","IPC-7351B",""
+"5","1","U4","AT89S52-24PC","AT89S52-24PC:AT89S52-24PC","CAMPROJECT:DIP254P1524X482-40","","8-bit Microcontroller","","","AT89S52-24PC","1095743","96K6580","DIP-40","","","Atmel"
